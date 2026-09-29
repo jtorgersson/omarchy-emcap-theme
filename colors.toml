@@ -1,0 +1,32 @@
+# Emcap Sketch — colors from Emcap's published visual identity.
+mode = "dark"
+
+accent = "#caa977"
+selection = "#455060"
+muted = "#8f9699"
+
+background = "#1a232c"
+dark_background = "#151d25"
+darker_background = "#10171e"
+lighter_background = "#26313a"
+
+foreground = "#f7f6f2"
+dark_foreground = "#afb0ad"
+light_foreground = "#e5e4e0"
+bright_foreground = "#ffffff"
+
+red = "#e5a194"
+yellow = "#caa977"
+orange = "#dfbd8b"
+green = "#9fbca7"
+cyan = "#a7c5c8"
+blue = "#a9b9cc"
+magenta = "#cbb2c2"
+brown = "#b69a79"
+
+bright_red = "#f2c7bd"
+bright_yellow = "#e7cda5"
+bright_green = "#c3d5c6"
+bright_cyan = "#c7dfe0"
+bright_blue = "#d0dce8"
+bright_magenta = "#e3cfdf"
